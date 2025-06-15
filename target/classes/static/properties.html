@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Listings - Commercial Real Estate</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo-placeholder">
+            <h1><a href="index.html">Logo</a></h1>
+        </div>
+        <nav class="navigation-menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="properties.html">Properties</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container py-2">
+        <h1>Commercial Property Listings</h1>
+        <p>Browse our available commercial properties. Use the filters to narrow down your search.</p>
+
+        <div class="properties-layout">
+            <!-- Filters/Sort Section -->
+            <aside class="property-filters-sidebar reveal-on-scroll">
+                <h2>Filters</h2>
+                <div class="filter-group">
+                    <h3>Property Type</h3>
+                    <label><input type="checkbox" name="type" value="office"> Office Space</label><br>
+                    <label><input type="checkbox" name="type" value="retail"> Retail Shop</label><br>
+                    <label><input type="checkbox" name="type" value="warehouse"> Warehouse</label><br>
+                    <label><input type="checkbox" name="type" value="business-park"> Business Park</label>
+                </div>
+                <div class="filter-group">
+                    <h3>Location (City)</h3>
+                    <label><input type="checkbox" name="city" value="delhi"> Delhi</label><br>
+                    <label><input type="checkbox" name="city" value="gurgaon"> Gurgaon</label><br>
+                    <label><input type="checkbox" name="city" value="noida"> Noida</label>
+                </div>
+                <div class="filter-group">
+                    <h3>Size (sq ft)</h3>
+                    <input type="range" id="size-range" name="size-range" min="500" max="50000" step="100" style="width:100%;">
+                    <output for="size-range" id="size-output">Min: 500 sq ft</output>
+                </div>
+                <button class="btn btn-primary btn-full-width mt-1">Apply Filters</button>
+            </aside>
+
+            <!-- Property Listing Area -->
+            <section class="property-listing-area">
+                <div class="sort-options mb-1 reveal-on-scroll">
+                    <label for="sort-by">Sort by: </label>
+                    <select name="sort-by" id="sort-by">
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="price-desc">Price: High to Low</option>
+                        <option value="size-asc">Size: Low to High</option>
+                        <option value="size-desc">Size: High to Low</option>
+                        <option value="recent">Most Recent</option>
+                    </select>
+                </div>
+
+                <!-- Container for dynamic property cards -->
+                <div id="property-listings-container" class="property-grid">
+                    <!-- Property cards will be injected here by JavaScript -->
+                    <p>Loading properties...</p>
+                </div>
+
+                <!-- Placeholder for Pagination -->
+                <div class="pagination text-center mt-2 reveal-on-scroll">
+                    <a href="#" class="btn btn-outline">&laquo; Prev</a>
+                    <a href="#" class="btn btn-primary">1</a>
+                    <a href="#" class="btn btn-outline">2</a>
+                    <a href="#" class="btn btn-outline">3</a>
+                    <a href="#" class="btn btn-outline">Next &raquo;</a>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Commercial Real Estate. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+</body>
+</html>

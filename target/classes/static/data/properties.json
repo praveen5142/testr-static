@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Premium Office Hub in Connaught Place",
+    "type": "Office Space",
+    "location": "Connaught Place, Delhi",
+    "city": "Delhi",
+    "size": "7500 sq ft",
+    "price": "₹12,00,000/month",
+    "developer": "DLF Ltd.",
+    "description": "A-grade office space in the heart of Delhi, perfect for established businesses and MNCs. Excellent connectivity and prestigious address.",
+    "images": [
+      "https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/E74C3C/white?text=Office+View"
+    ],
+    "amenities": ["Parking", "Power Backup", "Security", "Metro Connectivity", "Central AC"],
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "title": "Spacious Retail Outlet in Cyber City",
+    "type": "Retail Shop",
+    "location": "Cyber City, Gurgaon",
+    "city": "Gurgaon",
+    "size": "3000 sq ft",
+    "price": "₹6,50,000/month",
+    "developer": "Unitech Group",
+    "description": "High-footfall retail space in a prime commercial district. Ideal for flagship stores and premium brands.",
+    "images": [
+      "https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/269077/pexels-photo-269077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/3498DB/white?text=Retail+Front"
+    ],
+    "amenities": ["High Street Facing", "Customer Parking", "24x7 Security", "Escalators"],
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "title": "Modern IT Park in Sector 62, Noida",
+    "type": "Business Park",
+    "location": "Sector 62, Noida",
+    "city": "Noida",
+    "size": "50000 sq ft",
+    "price": "Price on Request",
+    "developer": "Gaursons India",
+    "description": "State-of-the-art IT park with multiple towers, food court, and ample parking. Designed for tech companies.",
+    "images": [
+      "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/2ECC71/white?text=IT+Park+Campus"
+    ],
+    "amenities": ["Ample Parking", "Food Court", "Power Backup", "High-Speed Internet", "Conference Rooms"],
+    "status": "Under Offer"
+  },
+  {
+    "id": 4,
+    "title": "Large Warehouse Facility near NH-8 Gurgaon",
+    "type": "Warehouse",
+    "location": "Near NH-8, Gurgaon",
+    "city": "Gurgaon",
+    "size": "25000 sq m",
+    "price": "₹15,00,000/month",
+    "developer": "Logistics Properties Ltd.",
+    "description": "Expansive warehouse with multiple loading docks, high ceilings, and easy highway access. Suitable for logistics and storage.",
+    "images": [
+      "https://images.pexels.com/photos/1095701/pexels-photo-1095701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/3863573/pexels-photo-3863573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/F1C40F/black?text=Warehouse+Interior"
+    ],
+    "amenities": ["Loading Docks", "Truck Parking", "24x7 Security", "Fire Safety", "Office Space"],
+    "status": "Leased"
+  },
+  {
+    "id": 5,
+    "title": "Compact Office for Startups in Nehru Place",
+    "type": "Office Space",
+    "location": "Nehru Place, Delhi",
+    "city": "Delhi",
+    "size": "1200 sq ft",
+    "price": "₹1,50,000/month",
+    "developer": "Ansal Properties",
+    "description": "Affordable and well-connected office space in Delhi's IT hub. Ideal for startups and small businesses.",
+    "images": [
+      "https://images.pexels.com/photos/5668774/pexels-photo-5668774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1181420/pexels-photo-1181420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/9B59B6/white?text=Startup+Office"
+    ],
+    "amenities": ["Metro Connectivity", "Power Backup", "Pantry", "Meeting Room Access"],
+    "status": "Available"
+  },
+  {
+    "id": 6,
+    "title": "High-End Showroom Space in Greater Kailash",
+    "type": "Retail Shop",
+    "location": "Greater Kailash I, Delhi",
+    "city": "Delhi",
+    "size": "2200 sq ft",
+    "price": "₹5,00,000/month",
+    "developer": "Local Developer Group",
+    "description": "Luxurious showroom space in a posh South Delhi market, suitable for luxury brands and designer stores.",
+    "images": [
+      "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/1ABC9C/white?text=Luxury+Showroom"
+    ],
+    "amenities": ["Prime Location", "Valet Parking", "Glass Facade", "High Ceilings"],
+    "status": "Available"
+  },
+  {
+    "id": 7,
+    "title": "Industrial Shed in Noida Phase 2",
+    "type": "Warehouse",
+    "location": "Phase 2, Noida",
+    "city": "Noida",
+    "size": "8000 sq ft",
+    "price": "₹2,50,000/month",
+    "developer": "Noida Authority Resale",
+    "description": "Functional industrial shed with power connection and good road access. Suitable for manufacturing or storage.",
+    "images": [
+      "https://images.pexels.com/photos/4483610/pexels-photo-4483610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/221016/pexels-photo-221016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/34495E/white?text=Industrial+Shed"
+    ],
+    "amenities": ["Heavy Power Load", "Wide Roads", "Worker Restrooms", "Loading Area"],
+    "status": "Under Offer"
+  },
+  {
+    "id": 8,
+    "title": "Co-working Space in Golf Course Road, Gurgaon",
+    "type": "Office Space",
+    "location": "Golf Course Road, Gurgaon",
+    "city": "Gurgaon",
+    "size": "Flexible (10-100 seats)",
+    "price": "₹15,000/seat/month",
+    "developer": "WeWork",
+    "description": "Vibrant co-working environment with flexible plans, modern amenities, and networking opportunities.",
+    "images": [
+      "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/E67E22/white?text=Coworking+Space"
+    ],
+    "amenities": ["High-Speed Wi-Fi", "Meeting Rooms", "Cafeteria", "Networking Events", "Printing Services"],
+    "status": "Available"
+  },
+  {
+    "id": 9,
+    "title": "Commercial Plot for Sale in Aerocity, Delhi",
+    "type": "Commercial Land",
+    "location": "Aerocity, Delhi",
+    "city": "Delhi",
+    "size": "1.5 Acres",
+    "price": "₹75 Crore",
+    "developer": "GMR Group",
+    "description": "Prime commercial plot suitable for hotel or premium office development in the bustling Aerocity district.",
+    "images": [
+      "https://images.pexels.com/photos/439416/pexels-photo-439416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/BDC3C7/black?text=Land+Plot"
+    ],
+    "amenities": ["Airport Proximity", "Development Rights", "Utilities Access"],
+    "status": "Available"
+  },
+  {
+    "id": 10,
+    "title": "Fully Furnished Office in Film City, Noida",
+    "type": "Office Space",
+    "location": "Sector 16A (Film City), Noida",
+    "city": "Noida",
+    "size": "4000 sq ft",
+    "price": "₹3,00,000/month",
+    "developer": "Eros Group",
+    "description": "Plug-and-play office space with modern interiors, cabins, workstations, and conference rooms in a prime Noida location.",
+    "images": [
+      "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/2980B9/white?text=Furnished+Office"
+    ],
+    "amenities": ["Fully Furnished", "Reception", "Meeting Rooms", "Pantry", "Security"],
+    "status": "Leased"
+  },
+  {
+    "id": 11,
+    "title": "Restaurant Space in Sector 29, Gurgaon",
+    "type": "Retail Shop",
+    "location": "Sector 29 Market, Gurgaon",
+    "city": "Gurgaon",
+    "size": "2500 sq ft + Outdoor",
+    "price": "₹4,00,000/month",
+    "developer": "Individual Owner",
+    "description": "Prime location for a restaurant or cafe in Gurgaon's popular dining hub. Includes outdoor seating area.",
+    "images": [
+      "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/8E44AD/white?text=Restaurant+Space"
+    ],
+    "amenities": ["Outdoor Seating", "Kitchen Setup Area", "High Footfall", "Liquor License Feasible"],
+    "status": "Available"
+  },
+  {
+    "id": 12,
+    "title": "Corporate Office Building in Okhla Phase 1",
+    "type": "Business Park",
+    "location": "Okhla Phase 1, Delhi",
+    "city": "Delhi",
+    "size": "30000 sq ft",
+    "price": "Price on Request",
+    "developer": "Paras Buildtech",
+    "description": "Independent corporate building with multiple floors, ideal for a company headquarters. Good metro connectivity.",
+    "images": [
+      "https://images.pexels.com/photos/288477/pexels-photo-288477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/159304/construction-site-build-construction-work-159304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/7F8C8D/white?text=Corporate+Building"
+    ],
+    "amenities": ["Dedicated Parking", "Elevators", "Security Cabin", "Rooftop Access", "Scalable Floors"],
+    "status": "Available"
+  },
+  {
+    "id": 13,
+    "title": "Logistics Park Unit in Greater Noida",
+    "type": "Warehouse",
+    "location": "Kasna, Greater Noida",
+    "city": "Noida",
+    "size": "15000 sq m",
+    "price": "₹8,00,000/month",
+    "developer": "IndoSpace",
+    "description": "Modern warehouse unit within a large logistics park, offering excellent infrastructure and connectivity for supply chain operations.",
+    "images": [
+      "https://images.pexels.com/photos/590478/pexels-photo-590478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/16A085/white?text=Logistics+Park"
+    ],
+    "amenities": ["Dock Levelers", "Wide Internal Roads", "Fire Hydrants", "Canteen Facility", "Driver Restrooms"],
+    "status": "Under Offer"
+  },
+  {
+    "id": 14,
+    "title": "Small Office in Udyog Vihar, Gurgaon",
+    "type": "Office Space",
+    "location": "Udyog Vihar Phase IV, Gurgaon",
+    "city": "Gurgaon",
+    "size": "800 sq ft",
+    "price": "₹70,000/month",
+    "developer": "HSIDC",
+    "description": "Cost-effective office space in an established industrial and commercial area, suitable for small teams or back offices.",
+    "images": [
+      "https://images.pexels.com/photos/7102/notes-macbook-study-conference.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/D35400/white?text=Small+Office+Unit"
+    ],
+    "amenities": ["Parking", "Power Backup", "Security", "Easy Commute"],
+    "status": "Available"
+  },
+  {
+    "id": 15,
+    "title": "Retail Kiosk Space in Noida City Center Mall",
+    "type": "Retail Shop",
+    "location": "Noida City Center Mall, Sector 32, Noida",
+    "city": "Noida",
+    "size": "200 sq ft",
+    "price": "₹1,20,000/month",
+    "developer": "Wave Group",
+    "description": "Compact kiosk space in a high-traffic mall, perfect for accessories, food items, or promotional activities.",
+    "images": [
+      "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://placehold.co/600x400/C0392B/white?text=Mall+Kiosk"
+    ],
+    "amenities": ["Mall Managed", "High Footfall", "Security", "Common Area Maintenance"],
+    "status": "Leased"
+  }
+]
